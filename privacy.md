@@ -5,7 +5,7 @@ description: Cómo trata ClinicPay tus datos personales y financieros.
 
 # Política de privacidad — ClinicPay
 
-_Última actualización: 17 de junio de 2026_
+_Última actualización: 13 de noviembre de 2026_
 
 ClinicPay ("la app", "nosotros") es una aplicación de finanzas personales para
 profesionales sanitarios. Esta política explica qué datos personales tratamos,
@@ -26,7 +26,7 @@ introduces sobre tu propia actividad.
 
 ## 2. Responsable del tratamiento
 
-- **Responsable**: Rubén Novas Villa (titular y desarrollador de ClinicPay),
+- **Responsable**: Ricardo Miguel Novas Villa (titular y desarrollador de ClinicPay),
   como persona física (Apple Developer Individual).
 - **Contacto / privacidad**: **r.novasvilla@gmail.com**
 
@@ -162,5 +162,5 @@ visible.
 
 ## 13. Contacto
 
-Responsable del tratamiento: **Rubén Novas Villa**
+Responsable del tratamiento: **Ricardo Miguel Novas Villa**
 Email de contacto / privacidad: **r.novasvilla@gmail.com**

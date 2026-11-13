@@ -5,13 +5,13 @@ description: Términos de uso (EULA) y condiciones de la suscripción Pro de Cli
 
 # Términos y condiciones de uso — ClinicPay
 
-_Última actualización: 17 de junio de 2026_
+_Última actualización: 13 de noviembre de 2026_
 
 Estos Términos y condiciones (el "Contrato" o "EULA") regulan el uso de la
 aplicación **ClinicPay** ("la app"). Al descargar, instalar o usar la app
 aceptas estos Términos. Si no estás de acuerdo, no uses la app.
 
-- **Titular / proveedor**: Rubén Novas Villa (Apple Developer Individual).
+- **Titular / proveedor**: Ricardo Miguel Novas Villa (Apple Developer Individual).
 - **Contacto**: **r.novasvilla@gmail.com**
 
 ## 1. Qué es ClinicPay
