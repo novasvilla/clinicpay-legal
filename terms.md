@@ -5,7 +5,7 @@ description: Términos de uso (EULA) y condiciones de la suscripción Pro de Cli
 
 # Términos y condiciones de uso — ClinicPay
 
-_Última actualización: 13 de noviembre de 2026_
+_Última actualización: 14 de noviembre de 2026_
 
 Estos Términos y condiciones (el "Contrato" o "EULA") regulan el uso de la
 aplicación **ClinicPay** ("la app"). Al descargar, instalar o usar la app
@@ -69,14 +69,15 @@ dispositivos.
 ## 7. Suscripción Pro: condiciones (auto-renovable)
 
 - **Producto**: ClinicPay Pro (suscripción).
-- **Precio**: **3,99 EUR/mes** (IVA incluido cuando aplique; el precio puede
+- **Precio**: **3,99 EUR al mes** o **39,99 EUR al año**, según el plan que
+  elijas (IVA incluido cuando aplique; el precio puede
   variar según tu región y la conversión de moneda que muestre el App Store).
 - **Periodo de prueba gratuito**: **7 días de prueba gratis** para nuevos
   suscriptores. Si no cancelas antes de que termine la prueba, la suscripción se
   convierte automáticamente en una suscripción de pago y se te cobrará el primer
   periodo.
 - **Renovación automática**: la suscripción se **renueva automáticamente** cada
-  mes salvo que la canceles **al menos 24 horas antes** del final del periodo en
+  mes o cada año, según el plan elegido, salvo que la canceles **al menos 24 horas antes** del final del periodo en
   curso (o de la prueba gratuita). El cargo de la renovación se aplica en las
   24 horas previas al inicio del nuevo periodo.
 - **Gestión y cancelación**: puedes **gestionar o cancelar** la suscripción en
